@@ -444,7 +444,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "Continue scene. Cuck the Judge's would-be boyfriend by having sex with her in front of him."
-    new "Продолжение сцены. Заставьте смотреть "бойвренда" как вы трахаете судью."
+    new "Продолжение сцены. Заставьте смотреть \"бойвренда\" как вы трахаете судью."
 
     # game/code/hints.rpy:5
     old "Skip this scene."
