@@ -3404,5 +3404,5 @@ translate russian strings:
 
     # game/code/e06/e06s05.rpy:606
     old "Both"
-    new "Оба варианта"
+    new "Вместе"
 

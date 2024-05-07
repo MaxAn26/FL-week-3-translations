@@ -52,7 +52,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You won't kiss her. Monster."
-    new "This is an important choice that changes the way your relationship with Daisy develops - You won't kiss her. Monster."
+    new "Это важный выбор, который изменит развитие ваших отношений с Дейзи - Вы не будете ее целовать."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You'll leave her there and leave - You will most likely never see her again."
@@ -88,7 +88,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "Polly fucks Nora with a strap-on, starting with Nora giving head."
-    new "Полли трахает Нору страпоном, при этом Нора делает минет."
+    new "Полли трахает Нору страпоном, сначала Нора сосет страпон."
 
     # game/code/hints.rpy:5
     old "Starts with Nora fucking Polly's tail with a strap-on."
@@ -344,7 +344,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "Begin Ending-16."
-    new "Запустик концовку 16."
+    new "Запустит концовку 16."
 
     # game/code/hints.rpy:5
     old "Wrong answer."
@@ -400,7 +400,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "You will leave Vanessa and Allison to their \"bonding.\" - This option ends Vanessa's and Allison's paths."
-    new "Вы оставите Ванессу и Эллисон наедине с их \«связями.\» - Эта опция завершает путь Ванессы и Элисон."
+    new "Вы оставите Ванессу и Эллисон наедине с их \"связями.\" - Эта опция завершает путь Ванессы и Элисон."
 
     # game/code/hints.rpy:5
     old "They notice you and invite you to participate in a threesome."
@@ -444,7 +444,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "Continue scene. Cuck the Judge's would-be boyfriend by having sex with her in front of him."
-    new "Продолжение сцены. Заставьте смотреть \"бойвренда\" как вы трахаете судью."
+    new "Продолжение сцены. Заставьте смотреть \"бойфренда\" как вы трахаете судью."
 
     # game/code/hints.rpy:5
     old "Skip this scene."
@@ -532,7 +532,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "You will have a one on one \"conversation\" with Lewald and \"teach\" her your ways. Easier to succeed."
-    new "У вас будет один на один \"разговор\" с Левальдом и \"обучение\" ее вашим методам. Легче добиться успеха."
+    new "У вас будет один на один \"разговор\" с Левальд и \"обучение\" ее вашим методам. Легче добиться успеха."
 
     # game/code/hints.rpy:5
     old "Will be harder to succeed, but potentially more enjoyable."
