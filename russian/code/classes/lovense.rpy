@@ -4,13 +4,13 @@ translate russian strings:
 
     # game/code/classes/lovense.rpy:50
     old "Connection Successful!"
-    new "Connection Successful!"
+    new "Подключение успешно!"
 
     # game/code/classes/lovense.rpy:53
     old "Connection failed!"
-    new "Connection failed!"
+    new "Не удалось подключиться!"
 
     # game/code/classes/lovense.rpy:69
     old "Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."
-    new "Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."
+    new "Не удалось подключиться к игрушке Lovense! Проверьте настройки."
 

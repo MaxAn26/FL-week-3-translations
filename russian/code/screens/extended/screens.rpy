@@ -76,13 +76,13 @@ translate russian strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Получите игрушки от Lovense"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Попробуйте нашу новую игру: Taboo University"
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "Получите бесплатное DLC с 6 концовками в Steam"
 

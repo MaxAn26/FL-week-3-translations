@@ -16,7 +16,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "Select this if you are leaning towards an ending with one person."
-    new "Select this if you are leaning towards an ending with one person."
+    new "Выберите этот вариант, если вы склоняетесь к концовке с одним человеком."
 
     # game/code/hints.rpy:5
     old "This is an important choice - You will have to a study a certain amount of times if you wish to not flunk the exams."

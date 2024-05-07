@@ -32,5 +32,5 @@ translate russian strings:
 
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
-    new "Download free DLC containing this ending"
+    new "Скачайте бесплатное DLC с этой концовкой"
 
